@@ -1,3 +1,5 @@
+![Password-Manager](https://socialify.git.ci/clueNA/Password-Manager/image?font=KoHo&language=1&name=1&owner=1&pattern=Transparent&theme=Dark)
+
 # Password Manager
 
 This is a Python-based Password Manager application with a graphical user interface (GUI) built using Tkinter. The application allows users to securely store, retrieve, generate, and manage their passwords.
